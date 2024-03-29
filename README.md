@@ -21,7 +21,7 @@ Ensure you have Rust and Cargo installed on your system. You can download them f
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://your-repository-url.git
+git clone https://github.com/xadvent/temp_converter_rust/
 ```
 
 2. Navigate to the project directory:
